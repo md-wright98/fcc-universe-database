@@ -1,2 +1,1 @@
-# universe_database
-celestial bodies database from freecodecamp's relational database course
+for this course: https://www.freecodecamp.org/learn/relational-database/build-a-celestial-bodies-database-project/build-a-celestial-bodies-database
